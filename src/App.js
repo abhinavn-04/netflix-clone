@@ -1,8 +1,11 @@
+
 import './App.css';
 
 function App() {
   return (
-    <div>hiii</div>
+    <div className="App">
+      hiii
+    </div>
   );
 }
 
