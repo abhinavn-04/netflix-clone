@@ -1,4 +1,4 @@
-#check out [here](https://netflix-clone-a28cf.web.app).
+#check out [here](https://abhinavn-04.github.io/netflix-clone/).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
