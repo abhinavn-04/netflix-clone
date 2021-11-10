@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="app">
       {/* Navbar */}
+      <Navbar />
       {/* Banner */}
       <Banner />
       {/* Rows */}
